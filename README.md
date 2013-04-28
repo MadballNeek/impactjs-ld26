@@ -4,6 +4,5 @@ Developed in 48 hours by Nicholas DiMucci
 
 http://mindshaftgames.appspot.com/
 
-Plugins credit:
-* eventChain.js - https://github.com/drhayes/impactjs-eventchain
+Plugins Credit:
 * astar-for-entities.js - https://github.com/hurik/impact-astar-for-entities
