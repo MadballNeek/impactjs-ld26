@@ -1,13 +1,16 @@
 Ludum Dare 26 - Minimally Run n Gun
 ======
-Developed in 48 hours by Nicholas DiMucci with ImpactJS
+Developed in **48 hours** with ImpactJS for the Ludum Dare competition.
+http://www.ludumdare.com/compo/ludum-dare-26/?action=preview&uid=20275
 
-* http://mindshaftgames.appspot.com/
-* http://www.impactjs.com/
+Play the full game at http://mindshaftgames.appspot.com/games/LD26/ld26.jsp
 
 Plugins Credit:
 * astar-for-entities.js - https://github.com/hurik/impact-astar-for-entities
 * eventChain.js - https://github.com/drhayes/impactjs-eventchain
+
+Requires a ImpactJS license to compile &amp; run.
+http://impactjs.com/
 
 The MIT License (MIT)
 
